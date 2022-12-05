@@ -1,15 +1,11 @@
 # Bionabu
 
-### Description
-Bionabu is an online marketplace that matches project sponsors with service providers that seek on-demand niche expertise.
-
-Identifying, assessing, and contacting prospective and appropriate partners for innovation projects can be a time-consuming, costly and risky process.
-
-Bionabu solves this by seamlessly connecting entrepreneurs with independently validated partners. Do not spend more time than you need finding the right match for your project
+### Описание
+Bionabu - онлайн площадка, где каждый может найти экспертов, ответы на вопросы, принять участие в различных митапах (как слушатель, так и в роли эксперта).
 
 #### [Bionabu](https://www.bionabu.com/)
 
-### Main stack (frontend)
+### Основной стек (frontend)
 
 - react
 - mobx
@@ -19,12 +15,12 @@ Bionabu solves this by seamlessly connecting entrepreneurs with independently va
 - react-draft-wysiwyg
 - websockets
 
-### Screenshots
+### Примеры скриншотов приложения
 
 ![img.png](screenshots/img.png)
 
 <details>
-  <summary>See more</summary>
+  <summary>Смотреть больше</summary>
 
 ![img_1.png](screenshots/img_1.png)
 

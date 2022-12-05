@@ -1,32 +1,31 @@
-# Lanit
+# Ланит
 
-I've worked in department of analytical system of control activity with several modules:
+В Ланите в подразделении аналитической системе контрольной деятельности работал над несколькими модулями:
 
-#### [Go to dashboards](#dashboards)
-#### [Go to requests list](#requests-list)
-#### [Go to monitoring of interactions](#monitoring-of-interactions)
+#### [Перейти к дашбордам](#дашборды)
+#### [Перейти к реестру запросов](#реестр-запросов)
+#### [Перейти к мониторингу взаимодействия](#мониторинг-взаимодействия)
 
-## Dashboards
+## Дашборды
 
-### Description
-Service for generating reports(charts and tables) which is covering all controls activities
+### Описание
+Сервис для просмотра отчетов по всем системам контрольной деятельности в виде графиков и таблиц.
 
-Service has filters by dates, departments and other parameters. Also, it compares graphics in order to different dates or organizations.
-Groups of widgets or specific widgets are possible to export in pdf-file as well. 
+Для удобства имеется фильтрация по периоду, по учреждениям и другим параметрам. Присутствует возможность сравнивать графики в рамках разных периодов и разных организаций. Также присутствует возможность выгрузить отчеты в pdf-файл группы виджетов или отдельных виджетов
 
-### Main stack (frontend)
+### Основной стек (frontend)
 
 - react
 - recharts
 - pdfkit
 - mobx
 
-### Screenshots
+### Примеры скриншотов приложения
 
 ![img_2.png](screenshots/img_2.png)
 
 <details>
-  <summary>See more</summary>
+  <summary>Смотреть больше</summary>
 
 ![img.png](screenshots/img.png)
 ![img_1.png](screenshots/img_1.png)
@@ -41,13 +40,12 @@ Groups of widgets or specific widgets are possible to export in pdf-file as well
 
 </details>
 
-## Requests list
+## Реестр запросов
 
-### Description
-Service aggregates and stores data about requests from Rosfinmonitoring and inspection results via customers, carriers, 
-entrepreneurs or individual persons.
+### Описание
+Сервис для агрегированного и стандартизированного хранения сведений о запросах из Росфинмониторинга и результатов проверок по заказчикам, поставщикам, индивидуальным предпринимателям и физическим лицам.
 
-### Main stack (frontend)
+### Основной стек (frontend)
 
 - react
 - typescript
@@ -57,12 +55,12 @@ entrepreneurs or individual persons.
 - yup
 - react-day-picker
 
-### Screenshots
+### Примеры скриншотов приложения
 
 ![img_14.png](screenshots/img_14.png)
 
 <details>
-  <summary>See more</summary>
+  <summary>Смотреть больше</summary>
 
 ![img_15.png](screenshots/img_15.png)
 ![img_16.png](screenshots/img_16.png)
@@ -72,13 +70,12 @@ entrepreneurs or individual persons.
 </details>
 
 
-## Monitoring of interactions
+## Мониторинг взаимодействия
 
-### Description
-Service creates dependencies between different types of subjects. There are graphs which can be changed with layouts or hide/disclosure
-extra dependencies.
+### Описание
+Сервис для построения связей взаимодействий между различными типами субъектов. Отображаются в виде графа, с возможностью изменения сетки отображения и раскрытия/скрытия дополнительных связей
 
-### Main stack (frontend)
+### Основной стек (frontend)
 
 - react
 - typescript
@@ -86,12 +83,12 @@ extra dependencies.
 - antd
 - @antv/g6
 
-### Screenshots 
+### Примеры скриншотов приложения
 
 ![img_11.png](screenshots/img_11.png)
 
 <details>
-  <summary>See more</summary>
+  <summary>Смотреть больше</summary>
 
 ![img_12.png](screenshots/img_12.png)
 ![img_13.png](screenshots/img_13.png)

@@ -1,7 +1,7 @@
-# Portfolio
+# Примеры работ
 
-## [Lanit](https://github.com/vano-stas/cv-projects/tree/main/lanit)
+## [Ланит](https://github.com/Stasiulevich/cv-projects/tree/RU/lanit)
 
-## [Bionabu](https://github.com/vano-stas/cv-projects/tree/main/bionabu)
+## [Bionabu](https://github.com/Stasiulevich/cv-projects/tree/RU/bionabu)
 
-## [VTB](https://github.com/vano-stas/cv-projects/tree/main/vtb)
+## [ВТБ](https://github.com/Stasiulevich/cv-projects/tree/RU/vtb)
