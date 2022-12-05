@@ -1,7 +1,7 @@
 # Portfolio
 
-## [Lanit](https://github.com/vano-stas/cv-projects/tree/main/lanit)
+## [Lanit](https://github.com/Stasiulevich/cv-projects/tree/main/lanit)
 
-## [Bionabu](https://github.com/vano-stas/cv-projects/tree/main/bionabu)
+## [Bionabu](https://github.com/Stasiulevich/cv-projects/tree/main/bionabu)
 
-## [VTB](https://github.com/vano-stas/cv-projects/tree/main/vtb)
+## [VTB](https://github.com/Stasiulevich/cv-projects/tree/main/vtb)
