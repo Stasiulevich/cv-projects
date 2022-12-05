@@ -5,3 +5,6 @@
 ## [Bionabu](https://github.com/Stasiulevich/cv-projects/tree/main/bionabu)
 
 ## [VTB](https://github.com/Stasiulevich/cv-projects/tree/main/vtb)
+
+
+Checkout to RU branch for russian version
