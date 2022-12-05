@@ -1,0 +1,23 @@
+@import '~@vtb-ib/ui-kit/styles-kit/settings/colors';
+
+
+.fieldBlock {
+  margin-bottom: 5rem;
+
+  &:last-child {
+    margin-bottom: 0rem;
+  }
+}
+
+.currencyDescription {
+  margin-top: 5rem;
+  color: $c_text_secondary;
+}
+
+.labelRequired {
+
+  & label[data-testid$='label']::after {
+    content: "*";
+    color: $c_danger;
+  }
+}
